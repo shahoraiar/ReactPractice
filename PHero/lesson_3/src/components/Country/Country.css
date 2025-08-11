@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid tomato;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+}
+
+.visited{
+    background-color: aqua;
+    color: black;
+    border: 2px solid tomato;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 10px;
+}
